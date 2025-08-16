@@ -1,0 +1,22 @@
+questions_answers = [
+    {"question": "Is the sky blue?", "answer": True},
+    {"question": "Can humans breathe underwater?", "answer": False},
+    {"question": "Is 2 + 2 equal to 4?", "answer": True},
+    {"question": "Do penguins fly?", "answer": False},
+    {"question": "Is the Earth round?", "answer": True},
+    {"question": "Can you see the Great Wall of China from space?", "answer": False},
+    {"question": "Is Python a programming language?", "answer": True},
+    {"question": "Are all fruits sweet?", "answer": False},
+    {"question": "Is water wet?", "answer": True},
+    {"question": "Is 5 greater than 10?", "answer": False},
+    {"question": "Do cats bark?", "answer": False},
+    {"question": "Is fire hot?", "answer": True},
+    {"question": "Can plants grow without sunlight?", "answer": False},
+    {"question": "Is gravity a force?", "answer": True},
+    {"question": "Do all mammals lay eggs?", "answer": False},
+    {"question": "Is the speed of light faster than sound?", "answer": True},
+    {"question": "Can a person live without food for a month?", "answer": True},
+    {"question": "Is chocolate toxic to dogs?", "answer": True},
+    {"question": "Is the Amazon rainforest the largest forest on Earth?", "answer": True},
+    {"question": "Is ice colder than fire?", "answer": True}
+]
